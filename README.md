@@ -151,8 +151,6 @@ fun_fact: "I break things to understand how they work — then I build them bett
   </picture>
 </div>
 
-> **⚙️ Setup Required:** To enable the contribution snake animation, add a GitHub Actions workflow to your profile repo. Create `.github/workflows/snake.yml` with the [snk action](https://github.com/Platane/snk). It will auto-generate and commit the snake SVG to the `output` branch.
-
 <br/>
 
 <!-- DIVIDER -->
