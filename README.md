@@ -138,32 +138,13 @@ fun_fact: "I break things to understand how they work — then I build them bett
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
 <!-- ═══════════════════════════════════════════════════ -->
-<!-- CONTRIBUTION SNAKE -->
-<!-- ═══════════════════════════════════════════════════ -->
-
-## 🐍 Contribution Snake
-
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/nevil06/nevil06/output/github-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/nevil06/nevil06/output/github-snake.svg" />
-    <img alt="github-snake" src="https://raw.githubusercontent.com/nevil06/nevil06/output/github-snake-dark.svg" />
-  </picture>
-</div>
-
-<br/>
-
-<!-- DIVIDER -->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-
-<!-- ═══════════════════════════════════════════════════ -->
 <!-- TROPHIES -->
 <!-- ═══════════════════════════════════════════════════ -->
 
 ## 🏆 GitHub Trophies
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=nevil06&theme=darkhub&no-frame=true&no-bg=true&column=7&margin-w=10" alt="Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=nevil06&theme=darkhub&no-frame=true&no-bg=false&column=7&margin-w=10&margin-h=10" alt="Trophies" />
 </div>
 
 <br/>
