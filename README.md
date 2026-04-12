@@ -58,6 +58,28 @@ fun_fact: "I break things to understand how they work — then I build them bett
 
 <br/>
 
+<!-- DIVIDER -->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+
+<!-- ═══════════════════════════════════════════════════ -->
+<!-- CONTRIBUTION SNAKE -->
+<!-- ═══════════════════════════════════════════════════ -->
+
+## � Contribution Snake
+
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/nevil06/nevil06/output/github-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/nevil06/nevil06/output/github-snake.svg" />
+    <img alt="github-snake" src="https://raw.githubusercontent.com/nevil06/nevil06/output/github-snake-dark.svg" />
+  </picture>
+</div>
+
+<br/>
+
+<!-- DIVIDER -->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+
 <!-- ═══════════════════════════════════════════════════ -->
 <!-- TECH STACK -->
 <!-- ═══════════════════════════════════════════════════ -->
@@ -130,25 +152,6 @@ fun_fact: "I break things to understand how they work — then I build them bett
 <!-- ACTIVITY GRAPH -->
 <div align="center">
   <img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=nevil06&bg_color=0d1117&color=58a6ff&line=1f6feb&point=58a6ff&area=true&area_color=1f6feb&hide_border=true&custom_title=Contribution%20Graph" alt="Contribution Graph" />
-</div>
-
-<br/>
-
-<!-- DIVIDER -->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-
-<!-- ═══════════════════════════════════════════════════ -->
-<!-- CONTRIBUTION SNAKE -->
-<!-- ═══════════════════════════════════════════════════ -->
-
-## 🐍 Contribution Snake
-
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/nevil06/nevil06/output/github-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/nevil06/nevil06/output/github-snake.svg" />
-    <img alt="github-snake" src="https://raw.githubusercontent.com/nevil06/nevil06/output/github-snake-dark.svg" />
-  </picture>
 </div>
 
 <br/>
